@@ -1,0 +1,11 @@
+UniTraj inference for PostGIS LINESTRING M
+
+This product includes software adapted from the UniTraj research implementation:
+https://github.com/Yasoz/UniTraj
+
+Original work: "UniTraj: Learning a Universal Trajectory Foundation Model from
+Billion-Scale Worldwide Traces" by Yuanshao Zhu, James Jianqiao Yu, Xiangyu
+Zhao, Xun Zhou, Liang Han, Xuetao Wei, and Yuxuan Liang.
+
+The upstream repository is licensed under the Apache License, Version 2.0.
+Modified files identify their relationship to the upstream implementation.
